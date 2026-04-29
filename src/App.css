@@ -1,0 +1,39 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Rajdhani:wght@300;400;500;600;700&display=swap');
+
+:root {
+  --bg-primary: #0a0a0f;
+  --bg-secondary: #12121a;
+  --bg-card: #1a1a2e;
+  --bg-card-hover: #16213e;
+  --accent-marvel: #e23636;
+  --accent-dc: #0476d0;
+  --accent-gold: #ffd700;
+  --accent-neutral: #7b68ee;
+  --text-primary: #f0f0f0;
+  --text-secondary: #a0a0b0;
+  --text-muted: #606070;
+  --border-subtle: rgba(255, 255, 255, 0.07);
+  --glow-marvel: 0 0 30px rgba(226, 54, 54, 0.3);
+  --glow-dc: 0 0 30px rgba(4, 118, 208, 0.3);
+  --font-display: 'Bebas Neue', cursive;
+  --font-body: 'Rajdhani', sans-serif;
+  --radius-card: 16px;
+  --transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: var(--bg-primary);
+  color: var(--text-primary);
+  font-family: var(--font-body);
+  min-height: 100vh;
+}
+
+a {
+  color: inherit;
+}

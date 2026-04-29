@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="675" viewBox="0 0 1200 675">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0b0d17" />
+      <stop offset="100%" stop-color="#1c2140" />
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="675" fill="url(#bg)" />
+  <rect x="80" y="80" width="1040" height="515" rx="28" fill="#11162a" stroke="#2b3158" stroke-width="3" />
+  <text x="140" y="190" fill="#f4f6ff" font-family="Arial, sans-serif" font-size="54" font-weight="700">HERO ATLAS</text>
+  <text x="140" y="250" fill="#b7c0ff" font-family="Arial, sans-serif" font-size="26">Home</text>
+  <rect x="140" y="300" width="280" height="56" rx="14" fill="#ff3d3d" />
+  <text x="165" y="337" fill="#ffffff" font-family="Arial, sans-serif" font-size="20" font-weight="600">EXPLORE HEROES</text>
+  <rect x="450" y="300" width="260" height="56" rx="14" fill="#2b3158" />
+  <text x="480" y="337" fill="#ffffff" font-family="Arial, sans-serif" font-size="20">START WITH BATMAN</text>
+  <rect x="140" y="390" width="920" height="150" rx="20" fill="#1a2040" stroke="#303a6b" stroke-width="2" />
+  <text x="180" y="450" fill="#9aa7ff" font-family="Arial, sans-serif" font-size="22">Featured Heroes</text>
+</svg>

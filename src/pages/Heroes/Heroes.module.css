@@ -1,0 +1,32 @@
+.page {
+  padding-top: 88px;
+  min-height: 100vh;
+}
+
+.container {
+  width: min(1280px, 95%);
+  margin: 0 auto;
+  padding: 1.5rem 0 2.5rem;
+}
+
+.container h1 {
+  font-family: var(--font-display);
+  letter-spacing: 0.05em;
+  font-size: clamp(2.6rem, 6vw, 4rem);
+  margin-bottom: 1.2rem;
+}
+
+.grid {
+  display: grid;
+  gap: 1.25rem;
+  grid-template-columns: repeat(auto-fill, minmax(220px, 1fr));
+}
+
+.error {
+  margin-top: 1rem;
+  color: #ff8d8d;
+  padding: 1rem;
+  border-radius: 10px;
+  border: 1px solid rgba(255, 141, 141, 0.25);
+  background: rgba(255, 141, 141, 0.08);
+}
