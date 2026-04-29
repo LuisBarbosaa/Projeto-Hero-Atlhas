@@ -3,8 +3,8 @@
 > Aplicação React para explorar super-heróis da Marvel e DC Universe
 
 ## 🖼️ Screenshots
-![Home](./public/screenshots/home.svg)
-![Detalhe do herói](./public/screenshots/hero-detail.svg)
+![Home](./public/screenshots/home.png)
+![Detalhe do herói](./public/screenshots/hero-detail.png)
 
 ## 🏗️ Arquitetura
 ```mermaid
