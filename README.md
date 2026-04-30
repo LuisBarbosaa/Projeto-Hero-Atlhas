@@ -2,13 +2,13 @@
 
 > Aplicação React para explorar super-heróis da Marvel e DC Universe
 
-## 🖼️ Screenshots
+## Screenshots
 ![Home](./public/screenshots/home.png)
 ![Detalhe do herói](./public/screenshots/hero-detail.png)
 ![Filtros](./public/screenshots/Filtro.png)
 ![Lista de herois](./public/screenshots/Heroes.png)
 
-## 🏗️ Arquitetura
+## Arquitetura
 ```mermaid
 flowchart TD
 	A[UI - Pages] -->|dados| B[Components]
@@ -18,19 +18,19 @@ flowchart TD
 	E --> D --> A
 ```
 
-## ✅ Funcionalidades
+## Funcionalidades
 - Consumo de API externa e exibição de dados
 - Busca e filtros por editora e alinhamento
 - Rotas internas com detalhes por herói
 
-## 🛠️ Tecnologias
+## Tecnologias
 - React + Vite
 - React Router DOM v7
 - Axios
 - CSS Modules
 - SuperHero API (akabab.github.io/superhero-api)
 
-## 📦 Como instalar e rodar
+## Como instalar e rodar
 
 ```bash
 # Clonar o repositório
@@ -49,10 +49,10 @@ npm run dev
 npm run build
 ```
 
-## 🌐 Acesse online
+## Acesse online
 https://luisbarbosaa.github.io/Projeto-Hero-Atlhas/
 
-## 📁 Estrutura do projeto
+## Estrutura do projeto
 
 ```text
 hero-atlas/
@@ -101,7 +101,7 @@ hero-atlas/
 └── README.md
 ```
 
-## 🗺️ Rotas
+## Rotas
 | Rota | Descrição |
 |------|-----------|
 | `/` | Home / Landing page |
