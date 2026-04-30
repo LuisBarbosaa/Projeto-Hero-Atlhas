@@ -5,7 +5,8 @@
 ## 🖼️ Screenshots
 ![Home](./public/screenshots/home.png)
 ![Detalhe do herói](./public/screenshots/hero-detail.png)
-![Filtros e listagem](./public/screenshots/heroes-filters.png)
+![Filtros](./public/screenshots/Filtro.png)
+![Lista de herois](./public/screenshots/Heroes.png)
 
 ## 🏗️ Arquitetura
 ```mermaid
